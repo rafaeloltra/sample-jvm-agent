@@ -1,4 +1,7 @@
 sample-jvm-agent
 ================
 
-Code repository for sample JVM agent for bytecode instrumentation
+Hi,
+
+this is where all code to related to my blog post on "Developing a JVM Agent for bytecode instrumentation with Javassist" will be hosted.
+
